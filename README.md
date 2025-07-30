@@ -3,7 +3,7 @@
 This repository contains the completed assignment for HTML5 + Accessibility & SEO Basics. The goal of this project was to create a well-structured, accessible, and SEO-friendly webpage using HTML5 best practices.
 LIVE DEMO  
 
-Here is the link: https://gorgeous-sunburst-e9222a.netlify.app/ 
+Here is the link: https://assignment-soe-accessibility.netlify.app/
 
 🎯 Objectives
 Implement semantic HTML5 elements
