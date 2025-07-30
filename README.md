@@ -1,49 +1,95 @@
 
-📘 Assignment: HTML5 + Accessibility & SEO Basics
-Overview
-This assignment will help you solidify your understanding of modern HTML5 structure while applying foundational concepts of web accessibility and search engine optimization (SEO). You’ll create a simple, semantically correct web page that prioritizes both human and machine readability—two pillars of great web design.
+📘 Assignme📝 Description
+This repository contains the completed assignment for HTML5 + Accessibility & SEO Basics. The goal of this project was to create a well-structured, accessible, and SEO-friendly webpage using HTML5 best practices.
 
-Objective
-Build a basic web page using HTML5 semantic tags, applying accessibility best practices and beginner-friendly SEO principles. Your final output should demonstrate a well-structured layout that supports screen readers and is optimized for discoverability.
+🎯 Objectives
+Implement semantic HTML5 elements
 
-Guidelines
-Use only HTML5. No CSS or JavaScript is required at this stage. Focus on using meaningful semantic elements to structure your page. Avoid using <div> or <span> unless absolutely necessary. Ensure your page has clearly defined sections such as a header, navigation, main content, and a footer.
+Ensure accessibility compliance (WCAG 2.1)
 
-Incorporate accessibility by using proper HTML5 landmarks and attributes that improve navigation for assistive technologies. Your HTML should reflect thoughtful planning of hierarchy and readability, both for users and search engines.
+Apply basic SEO optimization techniques
 
-For SEO, emphasize the use of heading tags in the correct order, provide descriptive text, and ensure your content is both human-readable and crawler-friendly. Consider how a search engine would interpret your page in terms of structure and content clarity.
+Create a responsive layout
 
-Deliverables
-A single HTML file named index.html. It should include:
+Validate HTML markup
 
-A semantic structure using appropriate HTML5 elements.
-Clear headings in a logical hierarchy.
-Accessibility enhancements using proper tags and attributes.
-SEO-friendly metadata and content.
-Tips
-Use HTML5 semantic tags appropriately.
-Organize content with accessibility in mind.
-Apply basic on-page SEO techniques.
-Follow clean, readable HTML code structure.
-About
-plp-webtechnologies-classroom-july2025-july-2025-introduction-to-html-5-introduction-to-html5-july-2 created by GitHub Classroom
+🛠️ Technologies Used
+HTML5
 
-Resources
- Readme
- Activity
- Custom properties
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 1 fork
-Report repository
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Footer
-© 2025 GitHub
+WAI-ARIA for accessibility
+
+Semantic markup for SEO
+
+Responsive design principles
+
+🚀 Features
+HTML5 Structure
+Proper use of <header>, <nav>, <main>, <section>, <article>, <aside>, and <footer>
+
+Semantic heading hierarchy (<h1> to <h6>)
+
+Appropriate use of lists (<ul>, <ol>, <dl>)
+
+Accessibility
+ARIA landmarks and roles
+
+Alt text for all images
+
+Proper contrast ratios
+
+Keyboard navigability
+
+Screen reader compatibility
+
+SEO Optimization
+Semantic HTML structure
+
+Proper meta tags (description, viewport, charset)
+
+Meaningful title tag
+
+Clean URL structure
+
+Schema.org markup (if applicable)
+
+📂 File Structure
+text
+project-root/
+│── index.html          # Main HTML file
+│── styles/             # CSS directory
+│   └── style.css       # Main stylesheet
+│── images/             # Image assets
+│── README.md           # This file
+└── ...
+🏗️ How to Use
+Clone this repository
+
+Open index.html in your browser
+
+Use browser developer tools to inspect:
+
+HTML structure
+
+Accessibility features
+
+Responsive behavior
+
+🧪 Validation
+HTML validated using W3C Validator
+
+Accessibility tested with WAVE
+
+Lighthouse audit performed for SEO and accessibility scoring
+
+📚 Resources
+MDN HTML5 Reference
+
+Web Content Accessibility Guidelines (WCAG)
+
+Google SEO Starter Guide
+
+✍️ Author
+[Your Name]
+[Your Contact Information]
+[Date of Submission]
+
